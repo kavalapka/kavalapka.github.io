@@ -9,3 +9,6 @@ http://kavalapka.github.io/vacancymap/
 
 3. CV with markdown to Junior JS Dev position
 https://kavalapka.github.io/rsschool-2019Q1-cv/cv
+
+4. RS School project - Youtube Client
+https://kavalapka.github.io/youtube-client/
