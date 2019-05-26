@@ -12,3 +12,6 @@ https://kavalapka.github.io/rsschool-2019Q1-cv/cv
 
 4. RS School project - Youtube Client
 https://kavalapka.github.io/youtube-client/
+
+5. Slides for Canvas API presentation
+https://kavalapka.github.io/reveal.js/
