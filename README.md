@@ -17,3 +17,8 @@ https://kavalapka.github.io/reveal.js/
 
 6. Animation Player task: simple pixel painting with animation on canvas
 https://kavalapka.github.io/animation-player/
+
+7. Piskel Clone Project: pixel painting with animation.
+
+Landing page with link to app:
+https://kavalapka.github.io/piskel-clone-landing/
