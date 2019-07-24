@@ -3,7 +3,6 @@
 1. Summarize numbers and convert it to selected currency 
 http://kavalapka.github.io/gp_angular/#/
 
-
 2. Search vacancy on map in Minsk area 
 http://kavalapka.github.io/vacancymap/
 
@@ -15,3 +14,6 @@ https://kavalapka.github.io/youtube-client/
 
 5. Slides for Canvas API presentation
 https://kavalapka.github.io/reveal.js/
+
+6. Animation Player task: simple pixel painting with animation on canvas
+https://kavalapka.github.io/animation-player/
