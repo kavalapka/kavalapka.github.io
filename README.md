@@ -1,20 +1,26 @@
 # kavalapka.github.io
 
-1. Summarize numbers and convert it to selected currency: 
-[Simple AngularJS form](http://kavalapka.github.io/gp_angular/#/)
+### AngularJS simple tasks from 2016
+1. [Simple AngularJS form](http://kavalapka.github.io/gp_angular/#/) to summarize numbers and convert it to selected currency: 
 
-2. Search vacancy on Leaflet map in Minsk area 
-[with AngularJS](http://kavalapka.github.io/vacancymap/)
+2. [Search vacancy](http://kavalapka.github.io/vacancymap/) on Leaflet map in Minsk area 
 
-3. CV with markdown to Junior JS Dev position
-[Must be updated](https://kavalapka.github.io/rsschool-2019Q1-cv/cv)
 
-4. RS School project with Core JS - [Youtube Client](https://kavalapka.github.io/youtube-client/)
+### Core JS tasks from RSSchool course 2019
 
-5. Slides for Canvas API [presentation](https://kavalapka.github.io/reveal.js/)
+1. Slides for [Canvas API](https://kavalapka.github.io/reveal.js/) presentation 
 
-6. Animation Player task: simple pixel painting with animation on canvas
-[only CoreJS](https://kavalapka.github.io/animation-player/)
+2. Search and list video with [Youtube Client](https://kavalapka.github.io/youtube-client/)
 
-7. Piskel Clone Project: pixel painting with animation and ReactJS.
+3. Simple pixel painting with animation on canvas:
+[Animation Player](https://kavalapka.github.io/animation-player/)
+
+
+### Tasks with ReactJS 2019
+1. Piskel Clone Project: pixel painting with animation and ReactJS.
 [Landing page with link to app](https://kavalapka.github.io/piskel-clone-landing/)
+
+2. [Culture Portal](https://kavalapka.github.io/culture-portal/): Portal about Belarusian photographers (manage team, code review, use gatsbyjs and graphQl)
+
+### Simple Vue examples 2020
+1. Simle forms just to train: [repo](https://github.com/kavalapka/vue-first)
