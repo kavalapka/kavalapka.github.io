@@ -23,4 +23,4 @@
 2. [Culture Portal](https://kavalapka.github.io/culture-portal/): Portal about Belarusian photographers (manage team, code review, use gatsbyjs and graphQl)
 
 ### Simple Vue examples 2020
-1. Simle forms just to train: [repo](https://github.com/kavalapka/vue-first)
+1. Simle forms just to train: [repo](https://github.com/kavalapka/vue-first) vs [Demo](https://kavalapka.github.io/vue-first/#/)
