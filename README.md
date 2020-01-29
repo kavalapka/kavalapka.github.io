@@ -16,6 +16,5 @@
 6. Animation Player task: simple pixel painting with animation on canvas
 [only CoreJS](https://kavalapka.github.io/animation-player/)
 
-7. Piskel Clone Project: pixel painting with animation and ReactJS
-
+7. Piskel Clone Project: pixel painting with animation and ReactJS.
 [Landing page with link to app](https://kavalapka.github.io/piskel-clone-landing/)
